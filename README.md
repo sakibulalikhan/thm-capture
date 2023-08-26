@@ -18,5 +18,10 @@ git clone https://github.com/sakibulalikhan/thm-capture.git
 pip3 install -r requirement.txt
 ```
 
+#### Writeups:
+
+[Blog](https://sakibulalikhan.github.io/capture-tryhackme-writeup)
+<br>
+[Medium](https://sakibulalikhan.medium.com/capture-tryhackme-writeup-b311bf8aef22)
 
 #### [Follow me on Twitter](https://twitter.com/sakibulalikhan) [@sakibulalikhan](https://twitter.com/sakibulalikhan)
