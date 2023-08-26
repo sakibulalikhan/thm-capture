@@ -22,7 +22,7 @@ git clone https://github.com/sakibulalikhan/thm-capture.git
 
 ### Install requrements:
 ```
-pip3 install -r requirement.txt
+pip3 install -r requirements.txt
 ```
 
 #### Writeups:
