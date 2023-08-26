@@ -5,8 +5,15 @@
 
 ### How to use this tool?
 ```
+python capture.py -t $IP
+```
+##### Example:
+```
 python capture.py -t 10.10.22.8
 ```
+* Main script "capture.py".
+* Here "-t" specifies the target.
+* Or you can replace "-t" with "--host".
 
 ### How to install this tool?
 ```
